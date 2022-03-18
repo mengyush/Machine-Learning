@@ -48,7 +48,7 @@ Submission and Grading
 ----------------------------------------------------------------------------
 
 Machine Learning: Programming Exercise 2 
-
+=====
 Logistic Regression
 
 Use functions and apps from the Statistics and Machine Learning Toolbox to implement logistic regression.
@@ -93,7 +93,7 @@ Submission and Grading
 ----------------------------------------------------------------------------
 
 Machine Learning: Programming Exercise 3
-
+=====
 Multi-class Classification and Neural Networks
 
 Use functions from the Statistics and Machine Learning Toolbox to easily create and train multi-class classification models. Explore an existing neural network created using the Deep Learning Toolbox, then use it to classify digit images. 
@@ -134,7 +134,7 @@ Submission and Grading
 ----------------------------------------------------------------------------
 
 Machine Learning: Programming Exercise 4
-
+=====
 Neural Networks Learning
 
 Use functions and apps from the Deep Learning Toolbox to create and train a custom neural network.
@@ -180,7 +180,7 @@ Submission and Grading
 ----------------------------------------------------------------------------
 
 Machine Learning: Programming Exercise 5
-
+=====
 Regularized Linear Regression and Bias vs. Variance
 
 Use functions and apps from the Statistics and Machine Learning Toolbox to quickly partition data and automatically cross-validate machine learning models to determine optimal hyperparameter settings.
@@ -222,7 +222,7 @@ Submission and Grading
 ----------------------------------------------------------------------------
 
 Machine Learning: Programming Exercise 6
-
+=====
 Support Vector Machines
 
 Use functions and apps from the Statistics and Machine Learning Toolbox to create, train, and cross-validate support vector machine classifiers.
@@ -284,7 +284,7 @@ Submission and Grading
 ----------------------------------------------------------------------------
 
 Machine Learning: Programming Exercise 7
-
+=====
 K-Means Clustering and Principal Component Analysis
 
 Use functions from the Statistics and Machine Learning Toolbox to cluster data and determine the optimal number of clusters. Then learn how to compress data using PCA and automatically include data compression when using the MATLAB machine learning apps.
@@ -338,7 +338,7 @@ Submission and Grading
 ----------------------------------------------------------------------------
 
 Machine Learning: Programming Exercise 8
-
+=====
 Anomaly Detection and Recommender Systems
 
 Use MATLAB functionality for working with big data to analyze movie ratings data and implement recommender systems using sparse arrays. 
